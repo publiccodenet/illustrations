@@ -14,6 +14,15 @@ The cultural values of the Foundation For Public Code are:
 * Community
 * Helpful
 
+And the communication principles are:
+
+* Open, unless
+* Invites contributions by all
+* Clearly explained
+* Hypertextual, web first
+* Interactive
+* Publishable
+
 ## Roadmap
 
 Illustrations:
