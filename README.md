@@ -37,7 +37,7 @@ The core values of public code are that it is:
 
 ## Existing illustrations
 
-* A Codebase as both the source code and policy bundled with great documentation
+* A codebase as both the source code and policy bundled with great documentation
 * Community
 * Collaborative developing
 
@@ -70,21 +70,21 @@ Idea clusters for future illustrations.
 
 * Software that reflects the values of your society
 * Democratically accountable software
-* Software that its users can scrutinize and understand
+* Software that end users (residents, citizens) can scrutinize and understand
 * Technological sovereignty
 
 ### Our members
 
 * Forward thinking public organizations
 * Advocating for a future you have a principled commitment to
-* Learning from and share experience with other bold, innovative public organizations and leaders in the sector
+* Learning from and sharing experience with other bold, innovative public organizations and leaders in the sector
 
 ### Open software
 
-* Modular software that lets you customize small parts of it to your local context, to make it better for your users, for here
+* Modular software that lets you customize small parts of it to your local context, to make it better for your users here
 * Portable code
 * Trustworthy, usable, maintained and sustainable code
-* Software that encodes their own history (version control)
+* Software that encodes its own history (version control)
 
 ### Modelling our values
 
