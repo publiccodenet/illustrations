@@ -23,6 +23,18 @@ And the communication principles are:
 * Interactive
 * Publishable
 
+The core values of public code are that it is:
+
+* Inclusive
+* Usable
+* Open
+* Legible
+* Accountable
+* Accessible
+* Sustainable
+
+
+
 ## Roadmap
 
 Illustrations:
