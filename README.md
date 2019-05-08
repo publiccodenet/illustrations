@@ -81,15 +81,15 @@ Idea clusters for future illustrations.
 
 ### Open software
 
-Modular software that lets you customize small parts of it to your local context, to make it better for your users, for here
-Portable code
-Trustworthy, usable, maintained and sustainable code
-Software that encodes their own history (version control)
+* Modular software that lets you customize small parts of it to your local context, to make it better for your users, for here
+* Portable code
+* Trustworthy, usable, maintained and sustainable code
+* Software that encodes their own history (version control)
 
 ### Modelling our values
 
-Working in the open: meeting our own standards in our own work
-Non-hierarchical
+* Working in the open: meeting our own standards in our own work
+* Non-hierarchical
 
 ## Licence
 
