@@ -53,18 +53,18 @@ Idea clusters for future illustrations.
 * Developer success: providing users, vendors and developers with the tools, skills and answers they need
 * Operations support: we take care of the product and codebase's operations and legal affairs
 
+### Our members
+
+* Forward thinking public organizations
+* Advocating for a future you have a principled commitment to
+* Learning from and sharing experience with other bold, innovative public organizations and leaders in the sector
+
 ### The foundation as a platform
 
 * Ecosystem-level services
 * Interconnected components relying on each other
 * Global partnership, globally reusable
 * Welcoming communities
-
-### The code auditing process
-
-* Clarity and legibility
-* Trustworthy and repeatable
-* Detailed: attention to each line of code
 
 ### Civic software
 
@@ -73,18 +73,18 @@ Idea clusters for future illustrations.
 * Software that end users (residents, citizens) can scrutinize and understand
 * Technological sovereignty
 
-### Our members
-
-* Forward thinking public organizations
-* Advocating for a future you have a principled commitment to
-* Learning from and sharing experience with other bold, innovative public organizations and leaders in the sector
-
 ### Open software
 
 * Modular software that lets you customize small parts of it to your local context, to make it better for your users here
 * Portable code
 * Trustworthy, usable, maintained and sustainable code
 * Software that encodes its own history (version control)
+
+### The code auditing process
+
+* Clarity and legibility
+* Trustworthy and repeatable
+* Detailed: attention to each line of code
 
 ### Modelling our values
 
