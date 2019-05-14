@@ -1,10 +1,10 @@
 # Illustrations
 
-A system of components to illustrate the subjects that the Foundation For Public Code deals with. Illustrated to build on the [Brand identity and philosophy of the Foundation For Public Code](https://brand.publiccode.net/) whilst adding colour and humanity to the abstract subjects.
+A system of components to illustrate the subjects that the Foundation for Public Code deals with. Illustrated to build on the [Brand identity and philosophy of the Foundation for Public Code](https://brand.publiccode.net/) whilst adding colour and humanity to the abstract subjects.
 
-This is an Open Source illustration project, which means that anyone should be able to use, modify and re-share the work as well as contribute to the development of it.
+This is an open source illustration project, which means that anyone should be able to use, modify and re-share the work as well as contribute to the development of it.
 
-The illustrations are build on the core concept of the Foundation For Public Code, that civil code as well as source code are both rulesets where humans and machines work together in unison to achieve great things.
+The illustrations are build on the core concept of the Foundation for Public Code, that civil code as well as source code are both rulesets where humans and machines work together in unison to achieve great things.
 
 ## Values and principles
 
