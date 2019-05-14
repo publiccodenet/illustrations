@@ -8,7 +8,7 @@ The illustrations are build on the core concept of the Foundation For Public C
 
 ## Values and principles
 
-The cultural values of the Foundation For Public Code are:
+The cultural values of the Foundation for Public Code are:
 
 * Open
 * Quality
