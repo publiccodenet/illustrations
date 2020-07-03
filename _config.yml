@@ -1,0 +1,16 @@
+title: Illustrations for Public Code
+strip_title: true
+toc: true
+
+remote_theme: publiccodenet/jekyll-theme
+include:
+  - "README.md"
+  - "CONTRIBUTING.md"
+  - "LICENSE.md"
+  - "CODE_OF_CONDUCT.md"
+
+defaults:
+  - scope:
+      path: "illustrations"
+    values:
+      image: true

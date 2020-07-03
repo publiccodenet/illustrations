@@ -1,0 +1,37 @@
+---
+layout: site
+---
+
+<style>
+    div#thumbnails {
+        background-color: white;
+        max-width: none;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0;
+        justify-content: center;
+    }
+    div#thumbnails>figure>img {
+        max-width: 20em;
+    }
+</style>
+
+
+<div id="thumbnails">
+    {% assign image_files = site.static_files | where: "image", true %}
+    {% for image in image_files %}
+    <figure>
+        <img src="{{ image.path }}" alt="{{ image.path }}">
+        <p><a href="{{ image.path }}">{{ image.path }}</a></p>
+    </figure>
+    {% endfor %}
+</div>
+
+<main>
+  <div id="readme">
+    <article>
+    {% assign readme = site.pages || where: 'path', 'README.md' %}
+    
+    {{ readme[0].content || markdownify }}
+  </article>
+</main>
