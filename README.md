@@ -39,6 +39,8 @@ The core values of public code are that it is:
 
 We have [19 illustrations](/illustrations/index.md) right now.
 
+You can also see our [sketches and new ideas](/sketches-and-new-ideas).
+
 ## Licence
 
 Licenced under the CC-0, including all illustrations and documentation. This means anyone can do anything with it.
