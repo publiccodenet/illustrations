@@ -23,3 +23,4 @@ Click on the illustration to see it and read more about where and how we've used
 * [social-software.svg](https://github.com/publiccodenet/illustrations/blob/master/illustrations/social-software.svg)
 * [stewardship.svg](https://github.com/publiccodenet/illustrations/blob/master/illustrations/stewardship.svg)
 
+Can't find what you're looking for? Try the [sketches and new ideas](../sketches-and-new-ideas).
