@@ -37,7 +37,10 @@ The core values of public code are that it is:
 
 ## Existing illustrations
 
-We have [19 illustrations](/illustrations/index.md) right now.
+We have cuerrently have
+* [25 illustrations](/illustrations/index.md)
+* [15 sketches](/sketches-and-new-ideas/index.md)
+* [4 social media images](/social-media-images/index.md)
 
 ## Licence
 
