@@ -46,4 +46,4 @@ You can also see our [sketches and new ideas](/sketches-and-new-ideas).
 
 ## Licence
 
-Licenced under the CC-0, including all illustrations and documentation. This means anyone may do anything with it.
+Licensed under the CC-0, including all illustrations and documentation. This means anyone may do anything with it.
