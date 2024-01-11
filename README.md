@@ -44,6 +44,10 @@ We cuerrently have
 
 You can also see our [sketches and new ideas](/sketches-and-new-ideas).
 
+## Assets
+
+In the `assets` folder, there is a palette for Inkscape and GIMP with the main colors.
+
 ## Licence
 
 Licensed under the CC-0, including all illustrations and documentation. This means anyone may do anything with it.
